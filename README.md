@@ -1,18 +1,18 @@
 # Machine-Learning-Time-Series-Application
 
-Time Series Forecasting: Definition, Applications, and Examples:
+# Time Series Forecasting: Definition, Applications, and Examples:
 
 Time series forecasting occurs when you make scientific predictions based on historical time stamped data. It involves building models through historical analysis and using them to make observations and drive future strategic decision-making. An important distinction in forecasting is that at the time of the work, the future outcome is completely unavailable and can only be estimated through careful analysis and evidence-based priors.
 
 
-What is time series forecasting?
+# What is time series forecasting?
 
 Time series forecasting is the process of analyzing time series data using statistics and modeling to make predictions and inform strategic decision-making. It’s not always an exact prediction, and likelihood of forecasts can vary wildly—especially when dealing with the commonly fluctuating variables in time series data as well as factors outside our control. However, forecasting insight about which outcomes are more likely—or less likely—to occur than other potential outcomes. Often, the more comprehensive the data we have, the more accurate the forecasts can be. While forecasting and “prediction” generally mean the same thing, there is a notable distinction. In some industries, forecasting might refer to data at a specific future point in time, while prediction refers to future data in general. Series forecasting is often used in conjunction with time series analysis. Time series analysis involves developing models to gain an understanding of the data to understand the underlying causes. Analysis can provide the “why” behind the outcomes you are seeing. Forecasting then takes the next step of what to do with that knowledge and the predictable extrapolations of what might happen in the future.
 
-Applications of time series forecasting:
+# Applications of time series forecasting:
 
 Forecasting has a range of applications in various industries. It has tons of practical applications including: weather forecasting, climate forecasting, economic forecasting, healthcare forecasting engineering forecasting, finance forecasting, retail forecasting, business forecasting, environmental studies forecasting, social studies forecasting, and more. Basically anyone who has consistent historical data can analyze that data with time series analysis methods and then model, forecasting, and predict. For some industries, the entire point of time series analysis is to facilitate forecasting. Some technologies, such as augmented analytics, can even automatically select forecasting from among other statistical algorithms if it offers the most certainty. 
 
-When you should use time series analysis forecasting:
+# When you should use time series analysis forecasting:
 
 Naturally, there are limitations when dealing with the unpredictable and the unknown. Time series forecasting isn’t infallible and isn’t appropriate or useful for all situations. Because there really is no explicit set of rules for when you should or should not use forecasting, it is up to analysts and data teams to know the limitations of analysis and what their models can support. Not every model will fit every data set or answer every question. Data teams should use time series forecasting when they understand the business question and have the appropriate data and forecasting capabilities to answer that question. Good forecasting works with clean, time stamped data and can identify the genuine trends and patterns in historical data. Analysts can tell the difference between random fluctuations or outliers, and can separate genuine insights from seasonal variations. Time series analysis shows how data changes over time, and good forecasting can identify the direction in which the data is changing.
